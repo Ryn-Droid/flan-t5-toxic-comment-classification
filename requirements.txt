@@ -1,0 +1,12 @@
+transformers>=4.44
+datasets
+accelerate
+sentencepiece
+emoji
+scikit-learn
+wordcloud
+pandas
+numpy
+matplotlib
+seaborn
+torch
